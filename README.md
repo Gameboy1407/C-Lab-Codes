@@ -3,3 +3,4 @@
 ![Level](https://img.shields.io/badge/Level-Beginner-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Type](https://img.shields.io/badge/Project-Assignment-purple)
+![Theme](https://img.shields.io/badge/Theme-Cyberpunk-00E5FF)
