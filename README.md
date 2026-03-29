@@ -1,6 +1,6 @@
+![Typing](https://readme-typing-svg.herokuapp.com?color=00E5FF&size=25&center=true&vCenter=true&width=600&lines=Pointers+in+C;Game+Engine+Concepts;Dynamic+Memory+Magic)
 ![Language](https://img.shields.io/badge/Language-C-blue)
 ![Compiler](https://img.shields.io/badge/Compiler-GDB-orange)
 ![Level](https://img.shields.io/badge/Level-Beginner-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Type](https://img.shields.io/badge/Project-Assignment-purple)
-![Theme](https://img.shields.io/badge/Theme-Cyberpunk-00E5FF)
