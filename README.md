@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![Compiler](https://img.shields.io/badge/Compiler-GCC-orange)
+![Compiler](https://img.shields.io/badge/Compiler-GDB-orange)
 ![Level](https://img.shields.io/badge/Level-Beginner-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Type](https://img.shields.io/badge/Project-Assignment-purple)
